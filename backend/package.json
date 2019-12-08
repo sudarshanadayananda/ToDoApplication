@@ -1,0 +1,25 @@
+{
+  "name": "hrm",
+  "version": "1.0.0",
+  "description": "backend api for human resources management system",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js --exec babel-node --presets babel-preset-env"
+  },
+  "author": "sudarshana dayananda",
+  "dependencies": {
+    "bcrypt": "^3.0.7",
+    "crypto": "^1.0.1",
+    "express": "^4.16.4",
+    "mongodb": "^2.2.33",
+    "mongoose": "^5.4.7",
+    "passport": "^0.4.0"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-core": "^6.26.3",
+    "babel-loader": "^8.0.5",
+    "babel-preset-env": "^1.7.0",
+    "nodemon": "^1.18.9"
+  }
+}
