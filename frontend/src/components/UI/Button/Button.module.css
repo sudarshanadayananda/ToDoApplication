@@ -1,0 +1,32 @@
+.Button {
+    cursor: pointer;
+    font: inherit;
+}
+
+.Button:first-of-type {
+    margin-left: 0;
+    padding-left: 0;
+}
+
+.Success {
+    color: white;
+    background-color: #13cbeb;
+    padding: 10px;
+    margin: 10px;
+    font-weight: bold;
+}
+
+.Danger {
+    color: #eb2c13;
+    background-color: transparent;
+    border: none;
+    padding: 10px;
+    margin: 10px;
+    font-weight: bold;
+}
+
+.DropDown {
+    color: #4a4e4e;
+    background-color: #f7f3f3;
+    border: none;
+}

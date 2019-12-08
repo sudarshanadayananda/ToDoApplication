@@ -1,0 +1,7 @@
+.DropDownItem {
+    cursor: pointer;
+    margin-top: 10px;
+}
+.DropDownItem button:hover {
+    color: #40A4c8;
+}

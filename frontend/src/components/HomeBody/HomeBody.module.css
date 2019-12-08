@@ -1,0 +1,27 @@
+.HomeBody {
+    margin-top: 56px;
+}
+
+.CategoryItems {
+    bottom: 56px;
+    position: fixed;
+    width: 100%;
+}
+
+.Input {
+    padding: 25px 50px;
+}
+
+.ToDoItems {
+    padding: 25px 50px 100px 50px;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+h6 {
+    display: inline-block;
+    margin-left: 25px;
+}

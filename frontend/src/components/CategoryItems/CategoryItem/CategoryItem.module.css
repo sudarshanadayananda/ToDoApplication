@@ -1,0 +1,21 @@
+.CategoryItem {
+    box-sizing: border-box;
+    display: block;
+    width: 100%;
+}
+.CategoryItem a {
+    color: #86817d;
+    text-decoration: none;
+    width: 100%;
+    box-sizing: border-box;
+    font-weight: bold;
+    display: block;
+    text-align: center;
+    padding: 10px;
+}
+.CategoryItem a:hover,
+.CategoryItem a:active,
+.CategoryItem a.active {
+    color: #40A4c8;
+    background-color: #e6e0e0;
+}

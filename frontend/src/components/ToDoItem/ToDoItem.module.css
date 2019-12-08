@@ -1,0 +1,13 @@
+.ToDoItem {
+    margin: 5px 0;
+}
+.ToDoItem:hover {
+    background-color: #d6d6d1;
+    cursor: pointer;
+}
+.Inline {
+    display: inline;
+}
+.Task {
+    margin-left: 25px;
+}

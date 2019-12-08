@@ -1,0 +1,27 @@
+.Login {
+    width: 100vw;
+    height: 100vh;
+    padding-top: 25%;
+    padding-left: 10%;
+    padding-right: 10%;
+}
+
+.Input {
+    margin-top: 16px;
+}
+
+.Button {
+    margin-top: 24px;
+}
+
+.BtnSignIn {
+    width: 100%;
+}
+
+.Card {
+    padding: 48px 16px;
+    border: 1px solid rgb(173, 168, 168);
+    border-radius: 6px;
+    box-shadow: 0 .25rem .25rem rgba(0,0,0,0.2);
+    background: #333;
+}

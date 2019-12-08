@@ -1,0 +1,44 @@
+.Header {
+    height: 56px;
+    width: 100%;
+    position: fixed;
+    top: 0;
+    left: 0;
+    background-color: #094570;
+    display: flex;
+    align-items: center;
+    padding: 0 20px;
+    box-sizing: border-box;
+    z-index: 90;
+}
+
+.Header h2 {
+    color: white;
+    margin-left: 56px;
+}
+
+.Header i {
+    font-size: 24px;
+    color: white;
+    cursor: pointer;
+}
+
+.Logo {
+    height: 80%;
+    cursor: pointer;
+}
+
+.Dropdown {
+    margin-right: 0;
+    margin-left: auto;
+    position: relative;
+    display: inline-block;
+}
+
+.DropdownContent {
+    display: none;
+}
+
+.Dropdown:hover .DropdownContent {
+    display: block;
+}

@@ -1,0 +1,17 @@
+.Content {
+    background-color:  #094570;
+    height: 56px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    display: flex;
+    align-items: center;
+}
+
+.Content span {
+    width: 100%;
+    text-align: center;
+    color: #ece2e2;
+    font-size: 12px;
+}
