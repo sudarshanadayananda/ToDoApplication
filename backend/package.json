@@ -8,7 +8,7 @@
   },
   "author": "sudarshana dayananda",
   "dependencies": {
-    "bcrypt": "^3.0.7",
+    "bcrypt": "^5.0.0",
     "crypto": "^1.0.1",
     "express": "^4.16.4",
     "mongodb": "^2.2.33",
